@@ -1,0 +1,101 @@
+2014-08-13T06:59:03.447412+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (493,'lenovo thinkpad t400s',null,null,null);
+2014-08-13T06:59:03.447384+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (478,'lenovo thinkpad t60',null,null,null);
+2014-08-13T06:59:03.447431+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (508,'CER-203',null,null,null);
+2014-08-13T06:59:03.447432+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (509,'CER-22',null,null,null);
+2014-08-13T06:59:03.447436+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (510,'Kentucky Linux Athlon Testbed',null,null,null);
+2014-08-13T06:59:03.447410+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (492,'lenovo thinkpad x200 tablet',null,null,36);
+2014-08-13T06:59:03.447419+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (499,'IBM 5100','1975-01-01',null,13);
+2014-08-13T06:59:03.447422+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (501,'AN/FSQ-32','1960-01-01',null,13);
+2014-08-13T06:59:03.447414+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (495,'Internet Tablet',null,null,null);
+2014-08-13T06:59:03.447452+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (521,'MC240LL/A',null,null,null);
+2014-08-13T06:59:03.447453+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (522,'D.K.COMMUNICATION',null,null,null);
+2014-08-13T06:59:03.447466+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (525,'ASUS Eee PC 1005PE','2010-01-01',null,37);
+2014-08-13T06:59:03.447454+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (523,'iPhone 4',null,null,1);
+2014-08-13T06:59:03.447455+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (524,'Nintendo 3DS','2010-03-23',null,24);
+2014-08-13T06:59:03.447390+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (483,'lenovo thinkpad t43',null,null,null);
+2014-08-13T06:59:03.447424+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (503,'System/34','1978-01-01','1983-01-01',13);
+2014-08-13T06:59:03.447392+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (484,'lenovo thinkpad r400',null,null,null);
+2014-08-13T06:59:03.447418+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (498,'IBM 701','1952-01-01',null,13);
+2014-08-13T06:59:03.447423+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (502,'IBM CPC','1949-01-01',null,13);
+2014-08-13T06:59:03.447444+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (516,'MacBook Parts',null,null,1);
+2014-08-13T06:59:03.447421+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (500,'AN/FSQ-7','1958-01-01',null,13);
+2014-08-13T06:59:03.447469+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (527,'BlackBerry PlayBook',null,null,42);
+2014-08-13T06:59:03.447470+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (528,'Barnes & Noble nook','2009-10-20',null,null);
+2014-08-13T06:59:03.447471+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (529,'SAM Coup?',null,null,null);
+2014-08-13T06:59:03.447472+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (530,'HTC Dream','2008-10-22',null,41);
+2014-08-13T06:59:03.447474+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (531,'Samsung Galaxy Tab','2010-09-02',null,43);
+2014-08-13T06:59:03.447488+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (536,'ThinkPad 340 CSE',null,null,null);
+2014-08-13T06:59:03.447490+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (537,'ThinkPad 755 CX',null,null,null);
+2014-08-13T06:59:03.447413+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (494,'Nokia N900','2009-10-01',null,16);
+2014-08-13T06:59:03.447427+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (505,'System/3','1969-01-01','1985-01-01',13);
+2014-08-13T06:59:03.447409+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (491,'lenovo thinkpad x40',null,null,null);
+2014-08-13T06:59:03.447445+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (517,'MacBook 13-inch Core 2 Duo 2.13GHz (MC240LL/A) DDR2 Model',null,null,1);
+2014-08-13T06:59:03.447450+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (520,'MacBook 13-inch Core 2 Duo 2.26GHz (Unibody MC207LL/A) DDR3 Model',null,null,null);
+2014-08-13T06:59:03.447475+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (532,'BlackBerry PlayBook','2010-09-27',null,42);
+2014-08-13T06:59:03.447522+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (545,'Fujitsu Lifebook T900',null,null,null);
+2014-08-13T06:59:03.447523+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (546,'Motorola Xoom',null,null,null);
+2014-08-13T06:59:03.447525+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (547,'ViewSonic G Tablet',null,null,null);
+2014-08-13T06:59:03.447526+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (548,'DEC Professional','1982-01-01',null,10);
+2014-08-13T06:59:03.447536+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (549,'DEC Multia','1994-11-07',null,10);
+2014-08-13T06:59:03.447440+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (513,'iPhone 2G',null,null,null);
+2014-08-13T06:59:03.447428+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (506,'IBM 305','1956-01-01',null,13);
+2014-08-13T06:59:03.447442+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (514,'Inslaw',null,null,null);
+2014-08-13T06:59:03.447497+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (543,'Acer Iconia',null,null,null);
+2014-08-13T06:59:03.447476+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (533,'Tianhe-I',null,null,null);
+2014-08-13T06:59:03.447491+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (538,'ThinkPad 755 CE',null,null,null);
+2014-08-13T06:59:03.447426+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (504,'System/32','1975-01-01',null,13);
+2014-08-13T06:59:03.447546+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (557,'DEC Professional 325',null,null,null);
+2014-08-13T06:59:03.447549+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (559,'DECmate',null,null,10);
+2014-08-13T06:59:03.447548+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (558,'DECmate II',null,null,10);
+2014-08-13T06:59:03.447550+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (560,'DECsystem',null,null,10);
+2014-08-13T06:59:03.447551+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (561,'NetApp Filer',null,null,null);
+2014-08-13T06:59:03.447447+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (518,'MacBook 13-inch Core 2 Duo 2.13GHz (MC240T/A) DDR2 Model',null,null,null);
+2014-08-13T06:59:03.447448+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (519,'MacBook 13-inch Core 2 Duo 2.13GHz (MC240X/A) DDR2 Model',null,null,null);
+2014-08-13T06:59:03.447496+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (542,'Alex eReader',null,null,null);
+2014-08-13T06:59:03.447544+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (555,'DEC Professional 350',null,null,null);
+2014-08-13T06:59:03.447492+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (539,'ThinkPad 370 C',null,null,null);
+2014-08-13T06:59:03.447537+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (550,'DEC Firefly',null,null,10);
+2014-08-13T06:59:03.447430+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (507,'English Electric DEUCE',null,null,null);
+2014-08-13T06:59:03.447553+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (562,'DEC GT40',null,null,10);
+2014-08-13T06:59:03.447556+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (564,'MindWave BrainCubed Education Bundle',null,null,null);
+2014-08-13T06:59:03.447554+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (563,'ecoATM',null,null,null);
+2014-08-13T06:59:03.447568+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (567,'Dell Inspiron 560 Desktop Computer ',null,null,null);
+2014-08-13T06:59:03.447557+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (565,'PalmPilot',null,null,null);
+2014-08-13T06:59:03.447558+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (566,'Upcoming iPhone 5',null,null,1);
+2014-08-13T06:59:03.447520+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (544,'Archos 101',null,null,null);
+2014-08-13T06:59:03.447478+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (534,'Kno',null,null,null);
+2014-08-13T06:59:03.447543+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (554,'DEC 7000/10000 AXP','1992-11-10',null,10);
+2014-08-13T06:59:03.447576+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (573,'Gateway LT3103U','2008-01-01',null,null);
+2014-08-13T06:59:03.447539+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (551,'DEC 3000 AXP',null,null,10);
+2014-08-13T06:59:03.447569+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (568,'IPad 2',null,null,1);
+2014-08-13T06:59:03.447438+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (511,'QNAP TS-101',null,null,null);
+2014-08-13T06:59:03.447579+00:00 app[web.1]: 
+2014-08-13T06:59:03.452382+00:00 app[web.1]: [[33mwarn[0m] play - Run with -DapplyEvolutions.default=true if you want to run them automatically (be careful)
+2014-08-13T06:59:03.447545+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (556,'DEC Rainbow 100',null,null,null);
+2014-08-13T06:59:03.447494+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (540,'Coleco Adam','1983-01-01',null,null);
+2014-08-13T06:59:03.447575+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (572,'Dell Vostro',null,null,null);
+2014-08-13T06:59:03.447571+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (569,'HP TouchPad','2011-02-09',null,27);
+2014-08-13T06:59:03.447439+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (512,'iPad','2010-01-01','2011-03-02',1);
+2014-08-13T06:59:03.447577+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (574,'iPhone 4S','2011-10-14',null,1);
+2014-08-13T06:59:03.447540+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (552,'DEC 2000 AXP','1993-05-25',null,10);
+2014-08-13T06:59:03.447443+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (515,'WePad','2010-07-01',null,null);
+2014-08-13T06:59:03.447572+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (570,'HP Veer','2011-02-09',null,27);
+2014-08-13T06:59:03.447467+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (526,'National Law Enforcement System',null,null,null);
+2014-08-13T06:59:03.447487+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (535,'ThinkPad 701 C',null,null,null);
+2014-08-13T06:59:03.447495+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (541,'Nebulae',null,null,null);
+2014-08-13T06:59:03.447541+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (553,'DEC 4000 AXP','1992-11-10',null,10);
+2014-08-13T06:59:03.447573+00:00 app[web.1]: insert into computer (id,name,introduced,discontinued,company_id) values (571,'Lenovo Thinkpad Edge 11',null,null,36);
+2014-08-13T06:59:04.970106+00:00 heroku[web.1]: Process exited with status 255
+2014-08-13T06:59:04.984244+00:00 heroku[web.1]: State changed from starting to crashed
+2014-08-13T07:10:56.160984+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=kentaro01-computer-database.herokuapp.com request_id=3a29aba0-5789-465f-b02f-b82c194ae693 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:10:56.433093+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=2a911980-1abd-4d52-9c86-c2a0bdde8619 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:11:09.921613+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=kentaro01-computer-database.herokuapp.com request_id=5a021668-a1ae-44a0-ac4e-372b28f2d114 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:11:10.503733+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=d1277ef8-96be-4ef3-952e-6591b4cef9fb fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:11:58.227463+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/%20deployed%20to%20Heroku" host=kentaro01-computer-database.herokuapp.com request_id=8452fa41-7e5b-4328-98e4-028f740fa93c fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:11:58.729173+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=e9ef0f54-fdd4-49bc-b72d-cb307f06f9e2 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:12:03.647721+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=kentaro01-computer-database.herokuapp.com request_id=98b3e20f-9629-47b2-832b-86a54f7068d4 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:12:03.926916+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=855e002b-3325-441f-8a96-0fd3d5b04463 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:13:35.854961+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=kentaro01-computer-database.herokuapp.com request_id=a5933689-2e50-46da-bd1e-961491f0f310 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:13:36.470106+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=eb2cd3b1-b218-477d-87e8-62455db412e5 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:21:59.661181+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=kentaro01-computer-database.herokuapp.com request_id=5f698103-a570-4e96-9ea5-e2cc004ddade fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
+2014-08-13T07:22:00.152296+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=kentaro01-computer-database.herokuapp.com request_id=26190f73-93a9-45c3-89fa-a2388ce10539 fwd="118.243.235.67" dyno= connect= service= status=503 bytes=
