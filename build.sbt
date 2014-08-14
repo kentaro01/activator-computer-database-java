@@ -9,8 +9,7 @@ libraryDependencies ++= Seq(
   javaEbean,
   "org.webjars" % "jquery" % "2.1.1",
   "org.webjars" % "bootstrap" % "3.1.1",
-  "org.webjars" % "font-awesome" % "4.1.0",
-  "postgresql" % "postgresql" % "9.1-901-1.jdbc4"
+  "org.webjars" % "font-awesome" % "4.1.0"
 )     
 
 lazy val root = (project in file(".")).enablePlugins(PlayJava)
